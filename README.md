@@ -1,7 +1,10 @@
-LogicalEquivalency
-===================
+# Handy Logic Doodahs-Logical Equivalency
+## Authors
+2016:
+Matt Peveler
 
-We check for equivalency of two given logical formulas.
+## About
+We check for equivalency of two given logical formulas. This is part of the handy logic doodahs series of Automated Theorem Provers.
 
 The basic outline of the program is below:
 
